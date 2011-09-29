@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Zitter | <%=@title%></title>
+	</head>
+	
+	<body>
+		<h1>Zitter -A twitter like app :)</h1>
+		<p>
+		-This is the home page of Zitter-
+		</p>
+	</body>
+</html>
